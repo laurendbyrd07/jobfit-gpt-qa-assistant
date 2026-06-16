@@ -1,0 +1,21 @@
+Sample Resume
+
+Name: Alex Taylor
+Role: QA Analyst
+
+Summary:
+Quality assurance professional with experience creating manual test cases, documenting defects, and collaborating with development teams to validate web application functionality.
+
+Skills:
+- Manual testing
+- Test case design
+- Regression testing
+- Bug reporting
+- Jira
+- Agile collaboration
+
+Experience:
+QA Analyst, Example Software Company
+- Executed functional and regression test cases for web applications.
+- Reported defects with clear reproduction steps and expected results.
+- Participated in sprint planning, daily standups, and release validation.
