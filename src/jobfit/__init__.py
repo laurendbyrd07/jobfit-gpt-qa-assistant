@@ -1,0 +1,1 @@
+"""JobFitGPT QA Assistant package."""

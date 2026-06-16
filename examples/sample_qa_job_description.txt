@@ -1,0 +1,22 @@
+Sample QA Job Description
+
+Title: Quality Assurance Engineer
+
+Overview:
+We are seeking a QA Engineer to validate web application quality through manual and automated testing practices.
+
+Responsibilities:
+- Create and execute test plans and test cases.
+- Perform regression, smoke, and exploratory testing.
+- Document defects in Jira and communicate findings to developers.
+- Collaborate with product and engineering teams in an Agile environment.
+- Support test automation initiatives where appropriate.
+
+Desired Skills:
+- Manual QA testing
+- Test automation fundamentals
+- Selenium or Playwright
+- API testing
+- Jira
+- Agile/Scrum
+- Strong written communication
