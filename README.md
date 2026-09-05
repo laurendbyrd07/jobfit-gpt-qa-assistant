@@ -93,3 +93,9 @@ This repository currently contains the initial project scaffold only. Business l
 ## Current Status
 
 Initial project structure has been created. Business logic is intentionally not implemented yet.
+
+## QA Perspective
+
+This project is also a portfolio demonstration of QA thinking for AI-enabled systems: how evaluation differs for deterministic vs. probabilistic components, what the quality risks are, and what is tested vs. planned. See [QA_STRATEGY.md](./QA_STRATEGY.md).
+
+**Status note:** this repository currently contains the project scaffold only, as described in QA_STRATEGY.md §0.
